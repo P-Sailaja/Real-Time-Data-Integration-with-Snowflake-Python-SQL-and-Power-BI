@@ -1,9 +1,7 @@
 # End-to-End DWBI Project: Real-Time-Data-Integration-with-Snowflake-Python-SQL-and-Power-BI
---
 
 <img width="1223" height="703" alt="BI Dashboard Image" src="https://github.com/user-attachments/assets/a849c922-0559-4b11-9a15-1d58f40edec2" />
 
---
 🏢 **Business Case**
 
 The organization sells thousands of products across hundreds of retail stores for the last 10 years.
