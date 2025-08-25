@@ -1,6 +1,6 @@
 # End-to-End DWBI Project: Real-Time-Data-Integration-with-Snowflake-Python-SQL-and-Power-BI
 
-🏢 Business Case
+🏢 ## Business Case
 
 The organization sells thousands of products across hundreds of retail stores for the last 10 years.
 It also runs a customer loyalty program to encourage repeat purchases.
